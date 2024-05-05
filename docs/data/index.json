@@ -1,5 +1,4 @@
 {
-    "title": "Demand Location Prediction for Taxis",
     "team": [
         {
             "name": "H.M.K.D. Bambaragama",
@@ -25,8 +24,7 @@
             "name": "U.I. Wickramaarachchi",
             "email": "e19432@eng.pdn.ac.lk",
             "eNumber": "E/19/432"
-        }
-        
+        }  
     ],
     "supervisors": [
         {
@@ -34,5 +32,5 @@
             "email": "dmayanthiherath@eng.pdn.ac.lk"
         }
     ],
-    "tags": []
+    "tags": ["Machine Learning", "Data Mining"]
 }
