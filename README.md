@@ -23,40 +23,44 @@
 
 ## Table of Content
 
-1. [Introduction](#introduction)
-2. [Problem](#problem)
-3. [Opportunity in Domain](#opportunity-in-domain)
-4. [Detailed Solution](#detailed-solution)
-5. [Data Collection](#data-collection)
-6. [Exploratory Data Analysis](#exploratory-data-analysis)
-7. [Getting Started](#getting-started)
-8. [Contributors](#contributors)
+1. <a href="#introduction">Introduction</a>
+2. <a href="#problem">Problem</a>
+3. <a href="#opportunity-in-domain">Opportunity in Domain</a>
+4. <a href="#detailed-solution">Detailed Solution</a>
+5. <a href="#data-collection">Data Collection</a>
+6. <a href="#exploratory-data-analysis">Exploratory Data Analysis</a>
+7. <a href="#getting-started">Getting Started</a>
+8. <a href="#contributors">Contributors</a>
 
-## 📚 Introduction 
-- This project leverages machine learning to predict taxi ride demand across different regions. By forecasting ride numbers for specific locations and time, we aim to create a more efficient and profitable ecosystem for taxi services.
+<h2 id="introduction">📚 Introduction</h2>
+<p>This project leverages machine learning to predict taxi ride demand across different regions. By forecasting ride numbers for specific locations and time, we aim to create a more efficient and profitable ecosystem for taxi services.</p>
 
-## 🚧 Problem 
+<h2 id="problem">🚧 Problem</h2>
+<p><strong>For Taxi Drivers:</strong></p>
+<ul>
+  <li><strong>Less Availability:</strong> Long waits without passengers.</li>
+  <li><strong>Less Profit:</strong> Inefficient positioning reduces earnings.</li>
+  <li><strong>Safety Concerns:</strong> Operating in less secure areas.</li>
+</ul>
 
-- **For Taxi Drivers:**
-  - **Less Availability:** Long waits without passengers.
-  - **Less Profit:** Inefficient positioning reduces earnings.
-  - **Safety Concerns:** Operating in less secure areas.
+<p><strong>For Customers:</strong></p>
+<ul>
+  <li><strong>High Stand Time:</strong> Long wait times for taxis.</li>
+  <li><strong>Time Wastage:</strong> Delays due to inefficient taxi distribution.</li>
+  <li><strong>Unfair Pricing:</strong> Surge pricing during peak demand.</li>
+</ul>
 
-- **For Customers:**
-  - **High Stand Time:** Long wait times for taxis.
-  - **Time Wastage:** Delays due to inefficient taxi distribution.
-  - **Unfair Pricing:** Surge pricing during peak demand.
+<h2 id="detailed-solution">🛠️ Detailed Solution</h2>
 
-## 🛠️ Detailed Solution 
+<h2 id="data-collection">📊 Data Collection</h2>
+<p>Our primary data source is the New York City Taxi and Limousine Commission website. From this resource, we can obtain approximately 20 features categorized by monthly data spanning over 20 years.</p>
 
-## 📊 Data Collection 
-- Our primary data source is the New York City Taxi and Limousine Commission website.
-- From this resource, we can obtain approximately 20 features categorized by monthly data spanning over 20 years.
+<h2 id="exploratory-data-analysis">🔍 Exploratory Data Analysis</h2>
 
-## 🔍 Exploratory Data Analysis 
+<h2 id="getting-started">🚀 Getting Started</h2>
+<p>Anybody can explore this project and gain insights. It's easy.</p>
+<ol>
+  <li>Clone the repository to the htdocs folder inside the XAMPP installation location.</li>
+</ol>
 
-## 🚀 Getting Started 
-
-Anybody can explore this project and gain insights. It's easy.
-
-1. Clone the repository to the htdocs folder inside the XAMPP installation location.
+<h2 id="contributors">Contributors</h2>
