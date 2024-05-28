@@ -28,7 +28,7 @@
 <ul>
   <li><strong>Less Availability:</strong> Long waits without passengers.</li>
   <li><strong>Less Profit:</strong> Inefficient positioning reduces earnings.</li>
-  <li><strong>Safety Concerns:</strong> Operating in less secure areas.</li>
+
 </ul>
 
 <p><strong>For Customers:</strong></p>
