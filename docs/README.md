@@ -59,7 +59,7 @@
 <h2 id="exploratory-data-analysis">🔍 Exploratory Data Analysis</h2>
 
 <br>
-<img src="docs/images/sample.png" alt="University of Peradeniya" style="max-width:100%">
+<img src="docs/images/sample.png" alt="University of Peradeniya">
 
 <p>Steps Involved</p>
 <ol>
