@@ -109,7 +109,7 @@
 <h2 id="links">Links</h2>
 <ul>
   <li><a href="https://github.com/cepdnaclk/e19-co544-Demand-Location-Prediction-For-Taxis/{{ page.repository-name }}" target="_blank">Project Repository</a></li>
-  <li><a href="https://cepdnaclk.github.io/{{ page.repository-name}}" target="_blank">Project Page</a></li>
+  <li><a href="https://cepdnaclk.github.io/e19-co544-Demand-Location-Prediction-For-Taxis/">Project Page</a></li>
   <li><a href="http://www.ce.pdn.ac.lk/" target="_blank">Department of Computer Engineering</a></li>
   <li><a href="https://eng.pdn.ac.lk/" target="_blank">University of Peradeniya</a></li>
 </ul>
