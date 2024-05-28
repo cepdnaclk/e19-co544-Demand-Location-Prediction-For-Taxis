@@ -58,6 +58,28 @@
 
 <h2 id="exploratory-data-analysis">🔍 Exploratory Data Analysis</h2>
 
+<br>
+<img src="docs/images/Screenshot 2024-05-29 043436.png" alt="University of Peradeniya" style="max-width:100%">
+
+<p>Steps Involved</p>
+<ol>
+  <li>Remove colums with higher percentage with Null values.</li>
+  <li>Removes any rows from the dataFrame that contain missing values (NaN) </li>
+  <li>Calculate trip times and speed. Then we can remove more data with unusual values. Using this we could remove the rows with unusual speeds, and trip times.</li>
+  <li>Visualize interested parameters in the box plots. And checked for outliers.</li>
+  <li>Convert pickup times raw into date time object. Since we are not intersted on the time we could remove that.</li>
+  <li>Fianally, we could filer only date of ride (based on the pickup time) and PUlocation.</li>
+  <li>Collect .csv files based on month in format.  Finally we have 12 csv files for a year with naming format YYYY-MM.
+ 
+  
+  </li>
+  
+</ol>
+
+
+
+
+
 <h2 id="getting-started">🚀 Getting Started</h2>
 <p>Anybody can explore this project and gain insights. It's easy.</p>
 <ol>
