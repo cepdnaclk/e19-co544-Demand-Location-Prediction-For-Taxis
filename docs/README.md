@@ -4,20 +4,6 @@
    
 <h3 align="center">Highest Demanded Location Prediction System for Taxi Drivers 🚖 | Optimized Fleet Management 📈 | Enhanced Customer Experience 🌟</h3>
 
-<div align="center">
-    <a href="https://github.com/cepdnaclk/e19-co544-Demand-Location-Prediction-For-Taxis/issues">
-        <img src="https://img.shields.io/github/issues/cepdnaclk/e19-co544-Demand-Location-Prediction-For-Taxis" alt="GitHub issues">
-    </a>
-    <a href="https://github.com/cepdnaclk/e19-co544-Demand-Location-Prediction-For-Taxis/pulls">
-        <img src="https://img.shields.io/github/issues-pr/cepdnaclk/e19-co544-Demand-Location-Prediction-For-Taxis" alt="GitHub pull requests">
-    </a>
-    <a href="https://github.com/cepdnaclk/e19-co544-Demand-Location-Prediction-For-Taxis/releases">
-        <img src="https://img.shields.io/github/downloads/cepdnaclk/e19-co544-Demand-Location-Prediction-For-Taxis/total" alt="GitHub downloads">
-    </a>
-    <a href="https://github.com/cepdnaclk/e19-co544-Demand-Location-Prediction-For-Taxis/releases">
-        <img src="https://img.shields.io/github/v/release/cepdnaclk/e19-co544-Demand-Location-Prediction-For-Taxis" alt="GitHub release">
-    </a>
-</div>
 
 <br></br>
 
