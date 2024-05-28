@@ -31,6 +31,7 @@
 6. <a href="#exploratory-data-analysis">Exploratory Data Analysis</a>
 7. <a href="#getting-started">Getting Started</a>
 8. <a href="#contributors">Contributors</a>
+9. <a href="#links">Links</a>
 
 <h2 id="introduction">📚 Introduction</h2>
 <p>This project leverages machine learning to predict taxi ride demand across different regions. By forecasting ride numbers for specific locations and time, we aim to create a more efficient and profitable ecosystem for taxi services.</p>
@@ -64,3 +65,18 @@
 </ol>
 
 <h2 id="contributors">Contributors</h2>
+<ul>
+  <li>E/19/034, H.M.K.D. Bambaragama, <a href="mailto:e19034@eng.pdn.ac.lk">email</a></li>
+  <li>E/19/226, K.G.M. Madushanka, <a href="mailto:e19226@eng.pdn.ac.lk">email</a></li>
+  <li>E/19/278, A.P.T.T. Perera, <a href="mailto:e19278@eng.pdn.ac.lk">email</a></li>
+  <li>E/19/409, D.P. Udugamasooriya, <a href="mailto:e19409@eng.pdn.ac.lk">email</a></li>
+  <li>E/19/432, U.I. Wickramaarachchi, <a href="mailto:e19432@eng.pdn.ac.lk">email</a></li>
+</ul>
+
+<h2 id="links">Links</h2>
+<ul>
+  <li><a href="https://github.com/cepdnaclk/e19-co544-Demand-Location-Prediction-For-Taxis/{{ page.repository-name }}" target="_blank">Project Repository</a></li>
+  <li><a href="https://cepdnaclk.github.io/{{ page.repository-name}}" target="_blank">Project Page</a></li>
+  <li><a href="http://www.ce.pdn.ac.lk/" target="_blank">Department of Computer Engineering</a></li>
+  <li><a href="https://eng.pdn.ac.lk/" target="_blank">University of Peradeniya</a></li>
+</ul>
