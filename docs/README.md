@@ -5,7 +5,6 @@
 <h3 align="center">Highest Demanded Location Prediction System for Taxi Drivers 🚖 | Optimized Fleet Management 📈 | Enhanced Customer Experience 🌟</h3>
 
 
-<br></br>
 
 ## Table of Content
 
