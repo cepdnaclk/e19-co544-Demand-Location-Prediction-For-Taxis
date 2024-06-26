@@ -92,8 +92,9 @@
 <ul>
   <li>Auto Regression model</li>
   <li>ARIMA model</li>
-  <li>Nural network</li>
+  <li>Neural network</li>
   <li>LSTM model</li>
+  <li>Furier Series Model</li>
   
 </ul>
 
